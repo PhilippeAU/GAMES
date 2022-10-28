@@ -43,7 +43,7 @@ if place_meeting(x,y+vsp,obj_bloco){
 	
 	vsp=0
 }
-
+ 
 y+=vsp
 
 
@@ -65,7 +65,6 @@ if keyboard_check_pressed(vk_space) && pulos>0{
 	vsp=jspd
 	pulos-=1
         	
-	
 }
  
  //ABAIXAR

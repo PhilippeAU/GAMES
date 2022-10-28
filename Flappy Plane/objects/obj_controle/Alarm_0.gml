@@ -5,7 +5,7 @@ instance_create_layer(839,montanha1_y,"instances", obj_montanha_cima)
 //Garantir que o espaço entre as monstanhas é o mesmo
 //Criando a montanha de baixo
 instance_create_layer(839,montanha1_y+647,"instances", obj_montanha_baixo)
-
+	
 // Reiniciar o alarme
 
 //Melhorando o intervalo
